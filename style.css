@@ -34,6 +34,7 @@ nav{
 }
 
 
+
 .main-visual{
 	height:650px;
 	width:100%;
@@ -123,6 +124,7 @@ nav{
 
 
 
+
 .section-box{
     margin:0 auto;
 }
@@ -130,6 +132,7 @@ nav{
 .Feature{
 	width:980px;
 	padding:90px 0;
+	margin:0 auto;
 	
 }
 .feature-section{
@@ -139,4 +142,56 @@ nav{
 }
 .feature-section:last-child{
 	margin-right:0;
+}
+.feature-strength{
+	margin:10px 0;
+}
+.fas{
+	font-size:60px;
+	}
+.social{
+	text-align:center;
+}
+
+
+
+
+
+.profile{
+	background-color:#eceff1;
+	padding:90px 0;
+}
+.profile-box{
+	width:1024px;
+	margin:0 auto;
+}
+.nice-guy-pic{
+	height:250px;
+	width:250px;
+	border-radius:50%;
+	
+ }
+ .profile-introbox{
+ 	width:512px;
+ 	float:left;
+ }
+.profile-pic-box{
+	width:512px;
+	text-align:center;
+	float:left;
+	
+}
+.my-name{
+	margin:30px 0 20px 0 ;
+	padding-bottom:5px;
+}
+.my-skills{
+	padding-bottom:5px;
+}
+.profile-introbox h3{
+	font-size:20px;
+}
+.profile-introtext{
+	font-size:16px;
+	color:black;
 }
